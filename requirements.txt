@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+torch
+transformers
+matplotlib
+plotly
+streamlit
+beautifulsoup4
+requests
+tqdm
