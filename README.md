@@ -1,7 +1,7 @@
 # Stayvora Hotel - AI Review Sentiment & Insight Engin
 
 ### Author: Zakir Ali 
-### LinkedIn: [https://www.linkedin.com/in/zakir-ali-572104339/]
+### LinkedIn: https://www.linkedin.com/in/zakir-ali-572104339/
 
 ## Overview
 Stayvora AI is a production-level deep learning system designed to analyze hotel reviews and generate actionable insights. It leverages state-of-the-art NLP techniques, including BERT-based sentiment analysis and transformer-based summarization, to provide a comprehensive view of customer feedback.
@@ -27,13 +27,13 @@ stayvora_engine/
 │   └── clean_data.py     # NLP preprocessing pipeline
 ├── models/               # Model inference and training logic
 │   └── inference.py      # BERT & Transformer-based analysis engine
-└── utils/                # Helper functions
+└── utils/                # Helper function
 ```
 
 ## Setup and Installation
 1. **Clone the repository**:
    ```bash
-   git clone <https://github.com/zakir-maswani/StayvoraAI.git>
+   git clone https://github.com/zakir-maswani/StayvoraAI>
    cd stayvora_engine
    ```
 
