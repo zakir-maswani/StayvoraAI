@@ -1,6 +1,7 @@
 # Stayvora Hotel - AI Review Sentiment & Insight Engin
 
-### Author: Zakir Ali
+### Author: Zakir Ali 
+### LinkedIn: [https://www.linkedin.com/in/zakir-ali-572104339/]
 
 ## Overview
 Stayvora AI is a production-level deep learning system designed to analyze hotel reviews and generate actionable insights. It leverages state-of-the-art NLP techniques, including BERT-based sentiment analysis and transformer-based summarization, to provide a comprehensive view of customer feedback.
